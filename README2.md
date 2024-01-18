@@ -7,3 +7,6 @@ Whatever be the purpose it should be glorious -- Loki
 ## deployment
 Deployment ususally gets stuck and we enjoy that time
 ## How to contribute
+
+### Copyright
+2024 macbook air m1
