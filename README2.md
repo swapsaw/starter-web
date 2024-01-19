@@ -11,3 +11,4 @@ please fork this repo and then issue pull request
 
 ### Copyright
 2024 macbook air m1
+All rights reserved
